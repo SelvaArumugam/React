@@ -1,0 +1,6 @@
+jsx code->bable(Transpiler) -> react(createElement) -> jsCompliler(Browser)
+Components 
+1->class based(old way)
+2->functional based(Normal js function)
+
+Component Composition (same file two Components one inside another)

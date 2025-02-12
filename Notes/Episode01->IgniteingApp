@@ -1,0 +1,5 @@
+There are two types of dependencies or packages
+1 -> Dev dependencies -> used only during develepment
+2 -> Normal dependencies
+
+Node modules is sooo big beacuse of transitive dependencies
