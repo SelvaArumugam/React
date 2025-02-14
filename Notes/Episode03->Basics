@@ -4,3 +4,5 @@ Components
 2->functional based(Normal js function)
 
 Component Composition (same file two Components one inside another)
+
+Cross Site Scripting -> JSX does the sanitising and dont execute it blindly
